@@ -47,3 +47,6 @@ Select Options:
             4. Quit  
 In case of errors, refer back to **Requirements**, or email **abhi12.p@gmail.com**
 
+Who we are
+Abhishek Patel | Zarir Hamza
+
